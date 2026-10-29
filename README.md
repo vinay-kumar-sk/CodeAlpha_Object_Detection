@@ -1,9 +1,8 @@
-\# CodeAlpha Object Detection and Tracking
+ 
 
 
 
-An AI-based real-time object detection and tracking system developed for the CodeAlpha Artificial Intelligence Internship — Task 4.
-
+An AI-based real-time object detection and tracking system developed 
 
 
 \## Features
